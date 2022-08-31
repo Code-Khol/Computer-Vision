@@ -6,9 +6,9 @@
 	1:Your Name
 	2:Ip (127.0.0.1)
 	3:Port (8080)
-	4:You can choose your ststus in this section
+	4:You can choose your status in this section
 	5:Press this button to run the app
 	6:Write your messege here
-	7:Press tihs button to send the messege
+	7:Press this button to send the message
 	8:Chat window
 	9:this section shows your activitis	
